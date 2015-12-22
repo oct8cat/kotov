@@ -13,5 +13,5 @@ make
 ## Fgsfds
 
 ```
-make -j3 watch_babel watch_web nodemon
+make -j3 watch_node watch_web nodemon
 ```
