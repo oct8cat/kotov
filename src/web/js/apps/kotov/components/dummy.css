@@ -1,0 +1,20 @@
+.component-dummy {
+    display: inline-block;
+    background-color: #ddd;
+    color: #222;
+    padding: 4px;
+}
+
+.component-dummy [data-ui="title"] {
+    margin: 0;
+    text-align: center;
+}
+
+.component-dummy [data-ui="content"] {
+    padding: 16px;
+    background-color: #eee;
+}
+
+.component-dummy [data-ui="content"] tt {
+    color: #448;
+}
